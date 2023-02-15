@@ -1,4 +1,4 @@
-### Hi there. This ist my first step in GitHub 👋
+### Hi there. This is my first step in GitHub 👋
 
 <!--
 **Bibi-S/Bibi-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
