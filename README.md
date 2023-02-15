@@ -1,4 +1,8 @@
-### Hi there. I'm currently learning web development. 👋
+### Hi there 👋
+
+*  I'm currently learning web development
+
+* I like robots and 3D modeling
 
 <!--
 **Bibi-S/Bibi-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
